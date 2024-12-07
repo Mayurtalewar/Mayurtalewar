@@ -2,8 +2,11 @@
 
 <h3 align="center">A passionate Full Stack Web Developer from India with a strong focus on backend development.</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Enthusiast;Full+Stack+Web+Developer;Tech+Explorer+and+Lifelong+Learner;Exploring+the+Unexplored;Transforming+Ideas+into+Reality;Always%20Learning%20New%20Things&center=true&width=700&height=90"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Enthusiast;Full+Stack+Web+Developer;Tech+Explorer+and+Lifelong+Learner;Exploring+the+Unexplored;Transforming+Ideas+into+Reality;Always%20Learning%20New%20Things&center=true&width=700" style="height: 150px;">
+  </a>
 </p>
+
 
 # <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="90px"> Connect With Me:
 
